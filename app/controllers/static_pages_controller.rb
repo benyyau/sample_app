@@ -11,4 +11,7 @@ class StaticPagesController < ApplicationController
   def fails
   end
   
+  def contact
+  end
+  
 end
